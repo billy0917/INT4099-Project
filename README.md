@@ -18,9 +18,6 @@ https://github.com/billy0917/INT4099-Project/raw/main/screenshots/finger_yolo.mp
   <img src="screenshots/vr_sample1.png" width="300" />
 </p>
 
-*(Video Demo: Additional Showcase)*
-https://github.com/billy0917/INT4099-Project/raw/main/screenshots/media2.mp4
-
 ### Application Home Page
 ![Main UI](screenshots/UI_home_page.png)
 
@@ -34,6 +31,9 @@ https://github.com/billy0917/INT4099-Project/raw/main/screenshots/face_rec_take_
 ### Posture & Focus Monitoring
 ![Posture Monitor](screenshots/posture_monitor.png)
 ![Concentration Tracking](screenshots/concentration.png)
+
+*(Video Demo: Posture & Focus Monitoring)*
+https://github.com/billy0917/INT4099-Project/raw/main/screenshots/posture_monitor.mp4
 
 ## ✨ Key Features
 
