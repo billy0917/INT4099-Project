@@ -1,0 +1,9 @@
+names:
+- husky
+- panda
+- british shorthair
+- elephant
+nc: 4
+path: C:\Users\BILLY\Documents\AI project\ultralytics_yolo\data
+train: images\train
+val: images\val

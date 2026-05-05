@@ -1,0 +1,25 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# PySide/PyQt
+*.ui
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project specific
+attendance_records/
+*.npy
+*.pt
+model_exp/
+ultralytics_yolo/model/train/
+

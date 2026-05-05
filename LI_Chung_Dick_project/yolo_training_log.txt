@@ -1,0 +1,14 @@
+=== YOLO訓練開始於 Thu Mar 27 02:58:03 2025 ===
+已載入標籤: ['husky', 'panda', 'british shorthair', 'elephant']
+訓練圖像: 77張, 驗證圖像: 29張
+成功導入Ultralytics YOLO
+PyTorch版本: 2.6.0+cpu
+CUDA不可用，將使用CPU訓練（可能較慢）
+開始訓練模型...
+模型訓練完成!
+找到訓練完成的模型: ultralytics_yolo\model\train\weights\best.pt
+模型文件大小: 5.96 MB
+已將模型複製到: ultralytics_yolo\model\best.pt
+=== YOLO訓練結束於 Thu Mar 27 03:03:10 2025 ===
+總耗時: 306.78 秒 (5.11 分鐘)
+訓練結果: 成功

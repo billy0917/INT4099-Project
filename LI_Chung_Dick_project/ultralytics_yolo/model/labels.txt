@@ -1,0 +1,4 @@
+husky
+panda
+british shorthair
+elephant
