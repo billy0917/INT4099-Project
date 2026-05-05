@@ -32,7 +32,7 @@ https://github.com/billy0917/INT4099-Project/raw/main/screenshots/face_rec_take_
 ![Posture Monitor](screenshots/posture_monitor.png)
 ![Concentration Tracking](screenshots/concentration.png)
 
-*(Video Demo: Posture & Focus Monitoring)*
+*(Video Demo: Posture Monitoring)*
 https://github.com/billy0917/INT4099-Project/raw/main/screenshots/posture_monitor.mp4
 
 ## ✨ Key Features
