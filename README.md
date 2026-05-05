@@ -1,6 +1,22 @@
-# Intelligent Vision-Based Monitoring & Attendance System (INT4099 Project)
+﻿# Intelligent Vision-Based Monitoring & Attendance System (INT4099 Project)
 
 This project is a comprehensive desktop application built with Python and PySide6 that acts as a smart student or office monitoring assistant. It integrates multiple AI and computer vision models to provide real-time attendance tracking, posture evaluation, concentration monitoring, and custom object detection.
+
+## 📸 Showcase & Screenshots
+
+### Application Home Page
+![Main UI](screenshots/UI_home_page.png)
+
+### Facial Recognition & Auto-Attendance
+![Face Recognition](screenshots/face_rec.png)
+![Attendance Record](screenshots/face_recognition_record_page.png)
+
+### Posture & Focus Monitoring
+![Posture Monitor](screenshots/posture_monitor.png)
+![Concentration Tracking](screenshots/concentration.png)
+
+### Custom Object Detection Tracking
+![Finger YOLO Tracking](screenshots/finger_yolo.gif)
 
 ## ✨ Key Features
 
