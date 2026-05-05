@@ -4,6 +4,23 @@ This project is a comprehensive desktop application built with Python and PySide
 
 ## 📸 Showcase & Screenshots
 
+### Custom Object Tracking & VR Integration
+![Finger YOLO Tracking](screenshots/finger_yolo.gif)
+
+*(Video Demo: Finger Object Detection)*
+https://github.com/billy0917/INT4099-Project/raw/main/screenshots/finger_yolo.mp4
+
+**Virtual Reality (VR) Conceptualization**
+> The core idea behind the Finger YOLO tracking system was initially designed as a prototype for Virtual Reality (VR) interaction. The goal was to explore how bare-hand gestures and finger interactions could seamlessly replace physical controllers when commanding UI and object elements in a VR environment.
+
+<p align="center">
+  <img src="screenshots/vr_sample.png" width="300" />
+  <img src="screenshots/vr_sample1.png" width="300" />
+</p>
+
+*(Video Demo: Additional Showcase)*
+https://github.com/billy0917/INT4099-Project/raw/main/screenshots/media2.mp4
+
 ### Application Home Page
 ![Main UI](screenshots/UI_home_page.png)
 
@@ -17,21 +34,6 @@ https://github.com/billy0917/INT4099-Project/raw/main/screenshots/face_rec_take_
 ### Posture & Focus Monitoring
 ![Posture Monitor](screenshots/posture_monitor.png)
 ![Concentration Tracking](screenshots/concentration.png)
-
-### Custom Object Tracking & VR Integration
-![Finger YOLO Tracking](screenshots/finger_yolo.gif)
-
-*(Video Demo: Finger Object Detection)*
-https://github.com/billy0917/INT4099-Project/raw/main/screenshots/finger_yolo.mp4
-
-**Virtual Reality (VR) Conceptualization**
-> The core idea behind the Finger YOLO tracking system was initially designed as a prototype for Virtual Reality (VR) interaction. The goal was to explore how bare-hand gestures and finger interactions could seamlessly replace physical controllers when commanding UI and object elements in a VR environment.
-
-![VR Concept 1](screenshots/vr_sample.png)
-![VR Concept 2](screenshots/vr_sample1.png)
-
-*(Video Demo: Additional Showcase)*
-https://github.com/billy0917/INT4099-Project/raw/main/screenshots/media2.mp4
 
 ## ✨ Key Features
 
@@ -54,4 +56,3 @@ https://github.com/billy0917/INT4099-Project/raw/main/screenshots/media2.mp4
 
 ## 📄 License and Disclaimer
 This repository is an academic project originally created for INT4099.
-
